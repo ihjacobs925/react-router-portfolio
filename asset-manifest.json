@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-router-portfolio/static/css/main.aec6cda4.chunk.css",
+    "main.js": "/react-router-portfolio/static/js/main.d9f7e604.chunk.js",
+    "main.js.map": "/react-router-portfolio/static/js/main.d9f7e604.chunk.js.map",
+    "runtime-main.js": "/react-router-portfolio/static/js/runtime-main.0f42caf0.js",
+    "runtime-main.js.map": "/react-router-portfolio/static/js/runtime-main.0f42caf0.js.map",
+    "static/js/2.f3de90d8.chunk.js": "/react-router-portfolio/static/js/2.f3de90d8.chunk.js",
+    "static/js/2.f3de90d8.chunk.js.map": "/react-router-portfolio/static/js/2.f3de90d8.chunk.js.map",
+    "static/js/3.94df2bc6.chunk.js": "/react-router-portfolio/static/js/3.94df2bc6.chunk.js",
+    "static/js/3.94df2bc6.chunk.js.map": "/react-router-portfolio/static/js/3.94df2bc6.chunk.js.map",
+    "index.html": "/react-router-portfolio/index.html",
+    "static/css/main.aec6cda4.chunk.css.map": "/react-router-portfolio/static/css/main.aec6cda4.chunk.css.map",
+    "static/js/2.f3de90d8.chunk.js.LICENSE.txt": "/react-router-portfolio/static/js/2.f3de90d8.chunk.js.LICENSE.txt",
+    "static/media/Chicago-art.adab6018.jpeg": "/react-router-portfolio/static/media/Chicago-art.adab6018.jpeg",
+    "static/media/css.d4c86ccd.svg": "/react-router-portfolio/static/media/css.d4c86ccd.svg",
+    "static/media/git.c60b7e5a.svg": "/react-router-portfolio/static/media/git.c60b7e5a.svg",
+    "static/media/github.740db6be.svg": "/react-router-portfolio/static/media/github.740db6be.svg",
+    "static/media/heroku.eef2b602.png": "/react-router-portfolio/static/media/heroku.eef2b602.png",
+    "static/media/html.3efc40a5.svg": "/react-router-portfolio/static/media/html.3efc40a5.svg",
+    "static/media/js.13ceb963.svg": "/react-router-portfolio/static/media/js.13ceb963.svg",
+    "static/media/mongodb.f835fb7a.svg": "/react-router-portfolio/static/media/mongodb.f835fb7a.svg",
+    "static/media/nodejs.d305bcca.svg": "/react-router-portfolio/static/media/nodejs.d305bcca.svg",
+    "static/media/postgresql.ae92b576.svg": "/react-router-portfolio/static/media/postgresql.ae92b576.svg",
+    "static/media/python.e6d7dc73.svg": "/react-router-portfolio/static/media/python.e6d7dc73.svg",
+    "static/media/react.add74742.svg": "/react-router-portfolio/static/media/react.add74742.svg",
+    "static/media/sequelize.70ccab6c.svg": "/react-router-portfolio/static/media/sequelize.70ccab6c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f42caf0.js",
+    "static/js/2.f3de90d8.chunk.js",
+    "static/css/main.aec6cda4.chunk.css",
+    "static/js/main.d9f7e604.chunk.js"
+  ]
+}
